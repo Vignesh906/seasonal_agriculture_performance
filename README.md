@@ -74,9 +74,9 @@ Open `Seasonal_Agriculture_Performance_Analysis.ipynb` in Jupyter Notebook, Jupy
 The `outputs/` directory contains the generated summary tables and charts used for the project presentation.
 
 ## 👤 Project Information
-**Student Name:** [Your Name]  
-**College:** [Your College]  
-**AICTE STU ID:** [Your ID]  
+**Student Name:** THATI VIGNESH
+**College:** Chaitanya Bharathi Institute Of Technology 
+**AICTE STU ID:** STU6a1beae960e691780214505
 **GitHub:** https://github.com/Vignesh906/seasonal_agriculture_performance
 
 Replace the first three placeholders before final submission.
